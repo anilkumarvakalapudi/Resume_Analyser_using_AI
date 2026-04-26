@@ -3,8 +3,6 @@ import './App.css'
 
 import jsPDF from 'jspdf'
 
-const API = "https://your-backend.onrender.com"
-
 function App() {
   const [resume, setResume] = useState(null)
   const [jobDescription, setJobDescription] = useState('')
