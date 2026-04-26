@@ -2,7 +2,6 @@ import {useState} from 'react'
 import './App.css'
 
 import jsPDF from 'jspdf'
-import html2canvas from 'html2canvas'
 
 
 function App() {
